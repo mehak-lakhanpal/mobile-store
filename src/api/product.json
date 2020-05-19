@@ -1,0 +1,81 @@
+{
+    "products": [
+        {
+            "id": 0,
+            "name": "Redmi Note 8",
+            "price":11000,
+            "model":"1X",
+            "os":"Android",
+            "screen-size":"9 inch",
+            "color":"black",
+            "storage":"32 GB",
+            "ram":"16 GB"
+        },
+        {
+            "id": 1,
+            "name": "Redmi Note 8",
+            "price":11000,
+            "model":"1X",
+            "os":"Android",
+            "screen-size":"9 inch",
+            "color":"black",
+            "storage":"32 GB",
+            "ram":"16 GB"
+        },
+        {
+            "id": 2,
+            "name": "Redmi Note 7s",
+            "price":10000,
+            "model":"1X",
+            "os":"Android",
+            "screen-size":"9 inch",
+            "color":"black",
+            "storage":"32 GB",
+            "ram":"16 GB"
+        },
+        {
+            "id": 3,
+            "name": "Redmi Note 8",
+            "price":11000,
+            "model":"1X",
+            "os":"Android",
+            "screen-size":"9 inch",
+            "color":"black",
+            "storage":"32 GB",
+            "ram":"16 GB"
+        },
+        {
+            "id": 4,
+            "name": "Redmi Note 7s",
+            "price":10000,
+            "model":"1X",
+            "os":"Android",
+            "screen-size":"9 inch",
+            "color":"black",
+            "storage":"32 GB",
+            "ram":"16 GB"
+        },
+        {
+            "id": 5,
+            "name": "Redmi Note 8",
+            "price":11000,
+            "model":"1X",
+            "os":"Android",
+            "screen-size":"9 inch",
+            "color":"black",
+            "storage":"32 GB",
+            "ram":"16 GB"
+        },
+        {
+            "id": 6,
+            "name": "Redmi Note 7s",
+            "price":10000,
+            "model":"1X",
+            "os":"Android",
+            "screen-size":"9 inch",
+            "color":"black",
+            "storage":"32 GB",
+            "ram":"16 GB"
+        }
+    ]
+}
